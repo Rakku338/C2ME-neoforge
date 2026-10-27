@@ -61,5 +61,5 @@ jobs:
         with:
           name: Artifacts
           path: |
-            C2ME-fabric-patched/build/libs/
+            C2ME-fabric-patched/build/libs/ 
 
